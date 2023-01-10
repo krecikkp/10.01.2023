@@ -1,0 +1,29 @@
+td
+{
+    background-color: rgb(255, 255, 230) ;
+    border: solid  ;
+}
+img
+{
+    width: 100%;
+    height: 80px;
+}
+h2
+{
+    text-align: center;
+}
+p
+{
+    text-align: justify;
+    text-indent: 50px;
+    padding: 10px;
+    border-left: 10px red solid;
+    border-right: 10px red solid;
+}
+.klasa
+{
+    background-image: url(malpa.png);
+    background-attachment: local;
+    background-repeat: no-repeat;
+    color: red;
+}

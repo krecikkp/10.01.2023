@@ -1,0 +1,39 @@
+body
+{
+    background-color: #000033;
+}
+h3
+{
+    color: rgb(102, 255, 51);
+    text-shadow: 3px 2px red;
+}
+p
+{
+color: yellow;
+font-size: 11pt;
+text-align: justify;
+}
+#pi
+{
+ text-decoration: underline;
+ background-color: #33001a;
+}
+#dr
+{
+    text-indent: 50px;
+}
+#tr
+{
+    text-indent: 50px;
+    letter-spacing: 3px;
+    line-height: 1.5;
+}
+#cz
+{
+    text-indent: 50px;
+}
+#pie
+{
+    text-decoration: underline;
+    background-color: #33001a;
+}
